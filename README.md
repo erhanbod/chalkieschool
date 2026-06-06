@@ -44,6 +44,7 @@ This repository contains the best learning resources related to homeschooling I 
 | [Outschool](https://outschool.com/)                                                                               | Paid (free trial) | Live online courses                          |
 | [ICTGames](http://ictgames.co.uk/)                                                                                | Free              | Free teacher-created games                   |
 | [Help Teaching](https://www.helpteaching.com/)                                                                    | Free              | Printable worksheets, tests, lessons, etc.   |
+| [Huebloom Learning Coloring Pages](https://huebloom.art/coloring-pages/learning)                                  | Free              | Alphabet and number coloring pages           |
 
 ## Advice
 
@@ -159,4 +160,3 @@ https://learninglab.si.edu
 https://simplehomeschool.net/educational-philosophies-defined-part-i/
 https://escola.britannica.com.br/se%C3%A7%C3%A3o/tema/13063/13076
 https://www.noas.com.br/
-
